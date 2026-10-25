@@ -1,0 +1,9 @@
+{
+  "name": "cesar-interactive-invitation",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Online Interactive Invitation by Cesar Ignacio",
+  "scripts": {"start": "node server.js"},
+  "engines": {"node": ">=20"},
+  "dependencies": {"pg": "^8.13.0"}
+}
